@@ -4,6 +4,10 @@ A little python app that graphs the most commonly occurring words on Seek.com jo
 Dependencies
 - bs4 (BeautifulSoup) html parser
 `pip install beautifulsoup4`
+- Requests for making html requests
+`pip install requests`
+- Matplotlib for showing the graph
+`pip install matplotlib`
 
 Steps
 1. run seek_scrape.py
